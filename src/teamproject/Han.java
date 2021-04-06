@@ -1,16 +1,8 @@
 package teamproject;
 
 public class Han {
+
 	public void test() {
-		System.out.println("jungdami test!");
+		System.out.println("냬꺼다");
 	}
-	
-	private String name;
-	
-	public void test() {
-		for(int i=0; i<10; i++) {
-			System.out.println("*"*i);
-		}
-	}
-	
 }
