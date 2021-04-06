@@ -5,5 +5,12 @@ package teamproject;
  *
  */
 public class Honggd {
-
+	
+	public static void main(String[] args) {
+		
+		// 푸시 투 오리진 테스트
+		while(true) {
+			System.out.println("333333333333333333");
+		}
+	}
 }
