@@ -5,5 +5,7 @@ package teamproject;
  * 
  * */
 public class Jungdami {
-
+	public void test() {
+		System.out.println("테스트");
+	}
 }
